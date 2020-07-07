@@ -14,7 +14,7 @@ Serous/
 Etc_carcinoma/
 ```
 
-# China 데이터
+## China 데이터
 ```
 NE/ (normal endometrium)
   Luteal/
