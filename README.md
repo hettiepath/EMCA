@@ -34,6 +34,8 @@ EA (endometrioid adenocarcinoma)
 
 # 2. 전처리
 : data_preprocessing.py, china_preprocessing.py, ucec_preprocessing.py
+- image_preprocessing.ipynb : 현미경 사진 이미지 확인을 위한 test case
+- labeling_search.ipynb : 현미경 사진의 판독내용 확인을 위한 test case
 ```
 image - 파일 형식별로 그림 열기
 UCEC 데이터 : .svs
