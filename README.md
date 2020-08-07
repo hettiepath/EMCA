@@ -31,7 +31,8 @@ EA (endometrioid adenocarcinoma)
 --> modeling for classifying NE/EP/EH/EA: train & test
 ```
 
-# 2. 전처리: image_preprocessing.py, data_preprocessing.py
+# 2. 전처리
+: data_preprocessing.py, china_preprocessing.py, ucec_preprocessing.py
 ```
 image - 파일 형식별로 그림 열기
 UCEC 데이터 : .svs
