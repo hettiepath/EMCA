@@ -1,7 +1,8 @@
 # EMCA
 classifying endometrium status &amp; carcinoma grading
 
-# 1. 데이터 수집 : data_preparing.py
+# 1. 데이터 수집
+: data_preparing.py
 
 ## UCEC 데이터
 
