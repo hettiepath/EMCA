@@ -4,7 +4,8 @@ classifying endometrium status &amp; carcinoma grading
 # 1. 데이터 수집
 : data_preparing.py
 
-## UCEC 데이터
+## TCGA-UCEC 데이터
+clinical & genetic 데이터도 TCGA 에서 획득 가능
 
 ```
 Endometrioid/
